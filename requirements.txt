@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+sqlalchemy
+pymysql
+python-dotenv
+typing-extensions
+pydantic
+cryptography
+streamlit
